@@ -1,3 +1,4 @@
-![Banner](./banner.png =300x)
+<img src="./banner.png" width="300">
+
 ### Hi there 👋
 
