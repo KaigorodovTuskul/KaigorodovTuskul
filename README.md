@@ -1,3 +1,3 @@
-![Banner](./banner.png)
+![Banner](./banner.png =300x)
 ### Hi there 👋
 
