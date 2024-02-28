@@ -1,4 +1,4 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaigorodovTuskul)](https://github.com/KaigorodovTuskul/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaigorodovTuskul&theme=merko)](https://github.com/KaigorodovTuskul/github-readme-activity-graph)
 
 ### Hi there, I’m @KaigorodovTuskul 👋 <br>
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
