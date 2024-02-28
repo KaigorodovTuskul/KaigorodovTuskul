@@ -11,5 +11,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaigorodovTuskul&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaigorodovTuskul&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaigorodovTuskul&theme=2077)
-[![Leetcode Banner](./banner.png)](https://leetcode.com/kaygorodov_ts){:width="100px" height="100px"}
+[![Leetcode Banner](./banner.png)](https://leetcode.com/kaygorodov_ts)
+
+
+
+[<img src="./banner.png" width="100px" height="100px">](https://leetcode.com/kaygorodov_ts)
+
 
