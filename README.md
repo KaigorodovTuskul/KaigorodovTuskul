@@ -15,6 +15,6 @@
 
 
 
-[<img src="./banner.png" width="150px" height="300px">](https://leetcode.com/kaygorodov_ts)
+[<img src="./banner.png" width="250px" height="600px">](https://leetcode.com/kaygorodov_ts)
 
 
