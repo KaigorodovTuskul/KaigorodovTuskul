@@ -11,8 +11,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaigorodovTuskul&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaigorodovTuskul&theme=2077)
 
-[<img src="./banner.png" width="200px" height="345px">](https://leetcode.com/kaygorodov_ts)
-![](https://komarev.com/ghpvc/?username=KaigorodovTuskul) <br>
+[<img src="./banner.png" width="200px" height="345px">](https://leetcode.com/kaygorodov_ts) <br>
+![](https://komarev.com/ghpvc/?username=KaigorodovTuskul)
 
 
 
