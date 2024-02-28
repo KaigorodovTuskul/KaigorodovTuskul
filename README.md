@@ -5,4 +5,4 @@
 🌱 I’m currently learning machine learning. <br>
 📫 How to reach me: in telegram - @myworlddown <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaigorodovTuskul)](https://github.com/KaigorodovTuskul/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=KaigorodovTuskul)](https://github.com/KaigorodovTuskul/github-readme-activity-graph)
