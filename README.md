@@ -4,5 +4,7 @@
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
 🌱 I’m currently learning machine learning. <br>
 📫 How to reach me: in telegram - @myworlddown <br>
+![](https://komarev.com/ghpvc/?username=KaigorodovTuskul)
+
 
 <img src="./banner.png" width="300">
