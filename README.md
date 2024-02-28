@@ -11,4 +11,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaigorodovTuskul&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaigorodovTuskul&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaigorodovTuskul&theme=2077)
-[![Profile Summary Cards and Banner](./banner.png)](link_to_your_profile)
+[![Leetcode Banner](./banner.png)](https://leetcode.com/kaygorodov_ts)
