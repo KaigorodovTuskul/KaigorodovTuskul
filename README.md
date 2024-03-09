@@ -38,8 +38,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaigorodovTuskul&theme=2077)
 
 ## LeetCode progress
-[![KaigorodovTuskul's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kaygorodov_ts&theme=Dark)](https://leetcode.com/kaygorodov_ts/)
-[<img src="./banner.png" width="300px" height="515px">](https://leetcode.com/kaygorodov_ts) <br>
+[![KaigorodovTuskul's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kaygorodov_ts&theme=Dark)](https://leetcode.com/kaygorodov_ts/) <br>
+[<img src="./banner.png" width="300px" height="515px">](https://leetcode.com/kaygorodov_ts)
 
 ## My Future Projects
 
