@@ -13,20 +13,18 @@
 ## Skills & Tools
 
 ### Frontend Development
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript (React)
 
 ### Backend Development
 - **Languages:** Python
 - **Frameworks/Libraries:** pandas, numpy, statistics, catboost, ta, dash, streamlit, plotly, matplotlib, asyncio
-- **API Development:** Django Rest Framework (DRF)
-- **Database:** PostgreSQL
+- **API Development:** FastApi, Django
+- **Database:** Sqlite3, Aiosqlite3, PostgreSQL
 
 ### Tools & Environment
 - **Version Control:** Git
-- **IDE:** PyCharm
-- **API Testing:** Postman
-- **API Documentation:** Swagger
-- **Bot Development:** aiogram
+- **IDE:** PyCharm, Visual Studio Code, DataGrip
+- **Bot Development:** aiogram 3
 
 ## GitHub stats
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaigorodovTuskul&theme=merko)
