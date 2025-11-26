@@ -5,6 +5,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/kaygorodov_ts/)
 ![Profile views](https://komarev.com/ghpvc/?username=KaigorodovTuskul&color=lightgrey)
 
+## Hackathon Streak
+- **AI for Finance Hack 2025** - https://changellenge.com/championships/aiforfinancehack (Triggers Team 21th place)
+- **HACK-the-ICE 7.0** - https://www.xn--80aa3anexr8c.xn--p1acf/tpost/os3klanpe1-hack-the-ice-70 (Triggers Team semi-final)
+
 ## Quick Overview
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
 🌱 I’m currently learning ML and DS. <br>
