@@ -6,8 +6,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=KaigorodovTuskul&color=lightgrey)
 
 ## Hackathon Streak
-- **AI for Finance Hack 2025** - https://changellenge.com/championships/aiforfinancehack (Triggers Team 21th place)
-- **HACK-the-ICE 7.0** - https://www.xn--80aa3anexr8c.xn--p1acf/tpost/os3klanpe1-hack-the-ice-70 (Triggers Team semi-final)
+- **AI for Finance Hack 2025** - https://changellenge.com/championships/aiforfinancehack (Triggers Team 21th place) ~ RAG system chat bot
+- **HACK-the-ICE 7.0** - https://www.xn--80aa3anexr8c.xn--p1acf/tpost/os3klanpe1-hack-the-ice-70 (Triggers Team semi-final) ~ micro SaaS Opora social project
+- **AI DevTools Hack 2025 Cloud.ru** - https://changellenge.com/championships/ai-devtools-hack/ (Triggers Team semi-final) ~ MCP ISS MOEX AI
+
 
 ## Quick Overview
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
