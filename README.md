@@ -15,7 +15,6 @@
 ## Quick Overview
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
 🌱 I’m currently learning ML and DS. <br>
-📫 How to reach me: in telegram - @myworlddown <br>
 
 ## Skills & Tools
 
