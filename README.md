@@ -14,7 +14,29 @@
 
 ## Quick Overview
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
-🌱 I’m currently learning ML and DS. <br>
+👀 I’m currently learning ML and DS. <br>
+
+  ## AI Calories Tracker
+
+  [![Open in Telegram](https://img.shields.io/badge/Telegram-@kaloriifotobot-2CA5E0?logo=telegram&logoColor=white)]
+  (https://t.me/kaloriifotobot)
+
+  <p align="left">
+    <img src="https://github.com/user-attachments/assets/3ca93ebe-c084-4501-9c63-7c6eb7aaf864" alt="AI Calories Tracker
+  screenshot" width="260" />
+  </p>
+
+  Track calories from food photos using AI.
+
+  ### Quick start
+  1. Open bot: https://t.me/kaloriifotobot
+  2. Send a food photo
+  3. Get estimated calories and macros
+
+  ### Features
+  - Photo → calories estimate
+  - Portion-aware response
+  - Fast Telegram workflow
 
 ## Skills & Tools
 
