@@ -14,29 +14,27 @@
 
 ## Quick Overview
 👀 I’m interested in data science in fintech field. Creating automate finance screeners, telegram-bots, dashboards etc. <br>
-👀 I’m currently learning ML and DS. <br>
 
-  ## AI Calories Tracker
+  ## Simulacre AI
 
-  [![Open in Telegram](https://img.shields.io/badge/Telegram-@kaloriifotobot-2CA5E0?logo=telegram&logoColor=white)]
-  (https://t.me/kaloriifotobot)
+  [![Open in Telegram](https://img.shields.io/badge/Telegram-@simulacre_ai_bot-2CA5E0?logo=telegram&logoColor=white)]
+  (https://t.me/simulacre_ai_bot)
 
   <p align="left">
-    <img src="https://github.com/user-attachments/assets/3ca93ebe-c084-4501-9c63-7c6eb7aaf864" alt="AI Calories Tracker
-  screenshot" width="260" />
+    <img src="https://github.com/user-attachments/assets/41b27267-c909-4909-b68d-381248bcdde4" alt="Simulacre AI screenshot" width="260" />
   </p>
 
-  Track calories from food photos using AI.
+Developed and launched an analytics portal and Telegram bot for collecting and analyzing macroeconomic indicators, stock-market data, and bonds. The project is available to users through a public domain and Telegram.
 
   ### Quick start
-  1. Open bot: https://t.me/kaloriifotobot
-  2. Send a food photo
-  3. Get estimated calories and macros
+  1. Open bot: https://t.me/simulacre_ai_bot
+  2. Type /start and choose the language 
+  3. Get access to 50+ macroindicators and macroeconomics analysis
 
   ### Features
-  - Photo → calories estimate
-  - Portion-aware response
-  - Fast Telegram workflow
+  - Structured macro data
+  - Fast website
+  - Fast Telegram workflow and Mini App
 
 ## Skills & Tools
 
@@ -64,7 +62,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaigorodovTuskul&theme=2077)
 
 ## LeetCode progress
-[![KaigorodovTuskul's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kaygorodov_ts&theme=Dark)](https://leetcode.com/kaygorodov_ts/)
+[![KaigorodovTuskul's LeetCode Stats](https://leetcard.jacoblin.cool/kaygorodov_ts)](https://leetcode.com/kaygorodov_ts)
 
 
 
