@@ -24,21 +24,21 @@ My main project: a financial analytics platform for the Russian market, combinin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/market-overview-en.webp"><img src="assets/market-overview-en.webp" alt="Simulacre AI market overview and macroeconomic context" width="400"></a><br>
+      <a href="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/market-overview-en.webp"><img src="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/thumbs/market-overview-en.webp" alt="Simulacre AI market overview and macroeconomic context" width="400" height="267"></a><br>
       <strong>Market overview</strong> · data and macroeconomic context
     </td>
     <td width="50%" valign="top">
-      <a href="assets/macro-buffett-en.webp"><img src="assets/macro-buffett-en.webp" alt="Buffett indicator chart, historical statistics and observations" width="400"></a><br>
+      <a href="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/macro-buffett-en.webp"><img src="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/thumbs/macro-buffett-en.webp" alt="Buffett indicator chart, historical statistics and observations" width="400" height="267"></a><br>
       <strong>Macro indicators</strong> · charts, history and interpretation
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/analysis-demo-en.webp"><img src="assets/analysis-demo-en.webp" alt="Public Analysis demo: candlesticks, RSI, trend and support and resistance levels" width="400"></a><br>
+      <a href="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/analysis-demo-en.webp"><img src="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/thumbs/analysis-demo-en.webp" alt="Public Analysis demo: candlesticks, RSI, trend and support and resistance levels" width="400" height="267"></a><br>
       <strong>Technical analysis</strong> · price structure and indicators
     </td>
     <td width="50%" valign="top">
-      <a href="assets/bonds-en.webp"><img src="assets/bonds-en.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400"></a><br>
+      <a href="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/bonds-en.webp"><img src="https://raw.githubusercontent.com/KaigorodovTuskul/KaigorodovTuskul/stable/assets/thumbs/bonds-en.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400" height="267"></a><br>
       <strong>Bond markets</strong> · yields, duration, ratings and liquidity
     </td>
   </tr>
