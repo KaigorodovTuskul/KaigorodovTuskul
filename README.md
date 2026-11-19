@@ -24,21 +24,21 @@ My main project: a financial analytics platform for the Russian market, combinin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/market-overview.webp"><img src="assets/market-overview.webp" alt="Simulacre AI market overview and macroeconomic context" width="400"></a><br>
+      <a href="assets/market-overview-en.webp"><img src="assets/market-overview-en.webp" alt="Simulacre AI market overview and macroeconomic context" width="400"></a><br>
       <strong>Market overview</strong> · data and macroeconomic context
     </td>
     <td width="50%" valign="top">
-      <a href="assets/macro-buffett.webp"><img src="assets/macro-buffett.webp" alt="Buffett indicator chart, historical statistics and observations" width="400"></a><br>
+      <a href="assets/macro-buffett-en.webp"><img src="assets/macro-buffett-en.webp" alt="Buffett indicator chart, historical statistics and observations" width="400"></a><br>
       <strong>Macro indicators</strong> · charts, history and interpretation
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/analysis-demo.webp"><img src="assets/analysis-demo.webp" alt="Public Analysis demo: candlesticks, RSI, trend and support and resistance levels" width="400"></a><br>
+      <a href="assets/analysis-demo-en.webp"><img src="assets/analysis-demo-en.webp" alt="Public Analysis demo: candlesticks, RSI, trend and support and resistance levels" width="400"></a><br>
       <strong>Technical analysis</strong> · price structure and indicators
     </td>
     <td width="50%" valign="top">
-      <a href="assets/bonds.webp"><img src="assets/bonds.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400"></a><br>
+      <a href="assets/bonds-en.webp"><img src="assets/bonds-en.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400"></a><br>
       <strong>Company valuation</strong> · assumptions, scenarios and value drivers
     </td>
   </tr>
