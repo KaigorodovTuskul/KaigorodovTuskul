@@ -39,7 +39,7 @@ My main project: a financial analytics platform for the Russian market, combinin
     </td>
     <td width="50%" valign="top">
       <a href="assets/bonds-en.webp"><img src="assets/bonds-en.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400"></a><br>
-      <strong>Company valuation</strong> · assumptions, scenarios and value drivers
+      <strong>Bond markets</strong> · yields, duration, ratings and liquidity
     </td>
   </tr>
 </table>
