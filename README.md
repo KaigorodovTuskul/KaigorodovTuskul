@@ -38,7 +38,7 @@ My main project: a financial analytics platform for the Russian market, combinin
       <strong>Technical analysis</strong> · price structure and indicators
     </td>
     <td width="50%" valign="top">
-      <a href="assets/fundamental-detail.webp"><img src="assets/fundamental-detail.webp" alt="SBER company valuation interface with DDM assumptions and an equity value bridge" width="400"></a><br>
+      <a href="assets/bonds.webp"><img src="assets/bonds.webp" alt="English bond screener with yield, duration, ratings and liquidity filters" width="400"></a><br>
       <strong>Company valuation</strong> · assumptions, scenarios and value drivers
     </td>
   </tr>
